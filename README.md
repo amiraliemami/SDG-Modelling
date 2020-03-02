@@ -4,6 +4,10 @@ Preliminary PhD Research: Using factor analyses and regression modelling on UN G
 
 This submission consists of working with World Bank and UN data relating to the SDGs. Data wrangling, restructuring, visualisation, modelling, and Principal Component Analysis is performed. 
 
+### Data
+
+Please note that the raw data from the UN Database that was used in this repo can be accessed directly from [here](https://unstats.un.org/sdgs/indicators/database/) and is not included. This should be placed in /data/new.
+
 ### Structure 
 
 It is comprised of 6 components:
