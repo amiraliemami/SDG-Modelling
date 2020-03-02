@@ -28,3 +28,13 @@ The additional R packages used are:
 The work is based on the following papers:
 - Spaiser, V., Ranganathan, S., Bali Swain, R. and Sumpter, D.J.T. (2017): The sustainable development oxymoron: quantifying and modelling the incompatibility of sustainable development goals. International Journal of Sustainable Development & World Ecology, 24(6), 457-470.
 - Ranganathan, S., Nicolis, S.C., Bali Swain, R. and Sumpter, D.J.T. (2017): Setting development goals using stochastic dynamical system models. PLoS ONE, 12(2)
+
+Data Sources
+- Old data from the Spaiser - “oxymoron” folder 
+- Data provided by the UN directly regarding four countries (Bangladesh, Laos, Ethiopia, Tanzania) – “vito” folder
+- The World Bank - Accessed through API to fetch data for given targets 
+- The World Bank - wb_income_groups.csv, wb_income_groups_2013.csv 
+- UNSTATS SDG Database - should be downloaded from UNSTATS and named SDG_all_countries_90_19.csv 
+- UN Data - UN_country_codes.csv 
+- The Heritage Foundation Index of Economic Freedom - heritage_data_2019.csv 
+- Our World in Data - OWiD_co2-emissions-per-capita.csv
